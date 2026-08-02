@@ -1,0 +1,10 @@
+[package]
+name = "sasa"
+version = "1.2.0"
+edition = "2021"
+license = "GPL-3.0-only"
+description = "SASA placeholder"
+[features]
+default = []
+oboe = []
+[dependencies]
